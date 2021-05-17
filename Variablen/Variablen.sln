@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vervierfachen", "Vervierfachen\Vervierfachen.csproj", "{8FA9CACE-9A1D-45F5-BE20-5A57262C29EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addieren", "Addieren\Addieren.csproj", "{D6F10890-5D2D-402E-B7BF-D5FEB66E43A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA9CACE-9A1D-45F5-BE20-5A57262C29EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA9CACE-9A1D-45F5-BE20-5A57262C29EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA9CACE-9A1D-45F5-BE20-5A57262C29EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA9CACE-9A1D-45F5-BE20-5A57262C29EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F10890-5D2D-402E-B7BF-D5FEB66E43A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F10890-5D2D-402E-B7BF-D5FEB66E43A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F10890-5D2D-402E-B7BF-D5FEB66E43A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F10890-5D2D-402E-B7BF-D5FEB66E43A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06769E86-243C-4026-BB42-F826F7FAE370}
+	EndGlobalSection
+EndGlobal
