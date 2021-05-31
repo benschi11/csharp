@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schleifen", "Schleifen\Schleifen.csproj", "{734D040F-E5CD-44C8-B6A8-4F14BB4E4EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zahlen1To100", "Zahlen1To100\Zahlen1To100.csproj", "{B74FF7C0-AE78-4D48-9815-EBF2106D4CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734D040F-E5CD-44C8-B6A8-4F14BB4E4EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734D040F-E5CD-44C8-B6A8-4F14BB4E4EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734D040F-E5CD-44C8-B6A8-4F14BB4E4EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734D040F-E5CD-44C8-B6A8-4F14BB4E4EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74FF7C0-AE78-4D48-9815-EBF2106D4CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74FF7C0-AE78-4D48-9815-EBF2106D4CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74FF7C0-AE78-4D48-9815-EBF2106D4CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74FF7C0-AE78-4D48-9815-EBF2106D4CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8529340-12AD-461B-9A5C-8AEF854A652B}
+	EndGlobalSection
+EndGlobal
