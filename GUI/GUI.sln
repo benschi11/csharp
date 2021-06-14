@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{56432F3C-5C23-407C-B020-CFCB579103AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorial", "Factorial\Factorial.csproj", "{56432F3C-5C23-407C-B020-CFCB579103AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "BMI\BMI.csproj", "{9863C408-4B0D-4B36-8B86-5BF5F62B6643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMI", "BMI\BMI.csproj", "{9863C408-4B0D-4B36-8B86-5BF5F62B6643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlickMich", "KlickMich\KlickMich.csproj", "{A33594E9-FE1B-4FF8-BB32-C888E3EB91DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KlickMich", "KlickMich\KlickMich.csproj", "{A33594E9-FE1B-4FF8-BB32-C888E3EB91DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar-Cipher", "Caesar-Cipher\Caesar-Cipher.csproj", "{09674365-56B0-4C2D-87EC-9A6CA516E421}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caesar-Cipher", "Caesar-Cipher\Caesar-Cipher.csproj", "{09674365-56B0-4C2D-87EC-9A6CA516E421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition", "Addition\Addition.csproj", "{E4286111-2C5A-4218-A588-48E250E2CA83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{09674365-56B0-4C2D-87EC-9A6CA516E421}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09674365-56B0-4C2D-87EC-9A6CA516E421}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09674365-56B0-4C2D-87EC-9A6CA516E421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4286111-2C5A-4218-A588-48E250E2CA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4286111-2C5A-4218-A588-48E250E2CA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4286111-2C5A-4218-A588-48E250E2CA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4286111-2C5A-4218-A588-48E250E2CA83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
