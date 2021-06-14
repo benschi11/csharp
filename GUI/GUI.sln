@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{56432F3C-5C23-407C-B020-CFCB579103AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "BMI\BMI.csproj", "{9863C408-4B0D-4B36-8B86-5BF5F62B6643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlickMich", "KlickMich\KlickMich.csproj", "{A33594E9-FE1B-4FF8-BB32-C888E3EB91DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar-Cipher", "Caesar-Cipher\Caesar-Cipher.csproj", "{09674365-56B0-4C2D-87EC-9A6CA516E421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56432F3C-5C23-407C-B020-CFCB579103AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56432F3C-5C23-407C-B020-CFCB579103AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56432F3C-5C23-407C-B020-CFCB579103AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56432F3C-5C23-407C-B020-CFCB579103AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9863C408-4B0D-4B36-8B86-5BF5F62B6643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9863C408-4B0D-4B36-8B86-5BF5F62B6643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9863C408-4B0D-4B36-8B86-5BF5F62B6643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9863C408-4B0D-4B36-8B86-5BF5F62B6643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33594E9-FE1B-4FF8-BB32-C888E3EB91DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33594E9-FE1B-4FF8-BB32-C888E3EB91DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33594E9-FE1B-4FF8-BB32-C888E3EB91DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33594E9-FE1B-4FF8-BB32-C888E3EB91DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09674365-56B0-4C2D-87EC-9A6CA516E421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09674365-56B0-4C2D-87EC-9A6CA516E421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09674365-56B0-4C2D-87EC-9A6CA516E421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09674365-56B0-4C2D-87EC-9A6CA516E421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE57739F-42F8-42B6-9958-D7FA6809370F}
+	EndGlobalSection
+EndGlobal
